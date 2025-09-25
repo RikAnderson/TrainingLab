@@ -1,2 +1,4 @@
 # TrainingLab
 Repository for online lab
+I am editing the README file. Adding some more details about the project description.
+
